@@ -5,15 +5,17 @@ import { getUser, users } from "./state.js";
 import dotenv from 'dotenv';
 dotenv.config();
 import vlLIQABI from './abi/vlLIQ.json' assert { type: 'json' };
+import LiqVestedEscrow from './abi/LiqVestedEscrow.json' assert { type: 'json' };
 import { gql } from "graphql-request";
 import { batchSubgraphData } from "./subgraph.js";
 export async function calculateLiqAirdrop() {
     await Promise.all([
         getLiqHolders(),
         getLockedLiqHolders(),
-        getLiqLiquidityProviders()
+        getLiqLiquidityProviders(),
+        // blacklistLiqHolders()
     ]);
-    blacklistLiqHolders();
+    await blacklistLiqHolders();
     calculateAirdropAmounts();
     teamAndVotersVestingAdjustments();
     incubatorAdjustments();
@@ -148,7 +150,7 @@ async function getLiqLiquidityProviders() {
         }
     });
 }
-function blacklistLiqHolders() {
+async function blacklistLiqHolders() {
     const blacklistedAddresses = [
         '0x748A0F458B9E71061ca0aC543B984473F203E1CB', // vlLIQ (handled separately)
         '0x5958390c53B07aF60Aae34eb11D453388Ee849EC', // Uniswap Pool (handled separately)
@@ -164,6 +166,15 @@ function blacklistLiqHolders() {
         const user = getUser(address);
         user.liqBalance = 0n;
     });
+    const remainingVestedAmount = await getPublicClient(mainnet).readContract({
+        address: '0xae566F666617f7C788cC47AC51CcC3E43Ae5CF9d',
+        abi: LiqVestedEscrow,
+        functionName: 'remaining',
+        args: ['0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B'],
+        blockNumber: 21121993
+    });
+    const inverseFinance = getUser('0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B');
+    inverseFinance.liqBalance += remainingVestedAmount;
 }
 function teamAndVotersVestingAdjustments() {
     const teamAndVotersVesting = getUser('0x2F48cB0DA01Ba75e321C870fA77F19f285C69693');

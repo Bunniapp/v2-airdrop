@@ -3,8 +3,8 @@
     "address": "0x00000000a991c429ee2ec6df19d40fe0c80088b8",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "56662059095525",
-    "totalAirdropAmount": "56662059095525"
+    "liqAirdropAmount": "55948834332518",
+    "totalAirdropAmount": "55948834332518"
   },
   {
     "address": "0x000000585f0373c5c651a279ad66a471fbd2125a",
@@ -31,8 +31,8 @@
     "address": "0x000000fee13a103a10d593b9ae06b3e05f2e7e1c",
     "veAirdropAmount": "165322622599751916724",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "204596528128481766336",
-    "totalAirdropAmount": "369919150728233683060"
+    "liqAirdropAmount": "202021201488118176057",
+    "totalAirdropAmount": "367343824087870092781"
   },
   {
     "address": "0x0000051e14c4556d7c6c988a32f7a6c74ceea9c7",
@@ -122,8 +122,8 @@
     "address": "0x009d13e9bec94bf16791098ce4e5c168d27a9f07",
     "veAirdropAmount": "118807470579389527748884",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "6731653802967578759628",
-    "totalAirdropAmount": "125539124382357106508512"
+    "liqAirdropAmount": "6646920168770225451989",
+    "totalAirdropAmount": "125454390748159753200873"
   },
   {
     "address": "0x00a4d3452c548257934758b2ba19e7fe819c6f04",
@@ -136,8 +136,8 @@
     "address": "0x00ad7539ae2163d3bd71bf74635b838e2fc422a3",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "85924540753699938563869",
-    "totalAirdropAmount": "85924540753699938563869"
+    "liqAirdropAmount": "84842979102150067166613",
+    "totalAirdropAmount": "84842979102150067166613"
   },
   {
     "address": "0x00b16857cdd2ac59832f4a7494e27d9030b81be1",
@@ -171,8 +171,8 @@
     "address": "0x00fc00900000002c00be4ef8f49c000211000c43",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "190415621055",
-    "totalAirdropAmount": "190415621055"
+    "liqAirdropAmount": "188018794353",
+    "totalAirdropAmount": "188018794353"
   },
   {
     "address": "0x010da5528c5670cbb91eed80bffe03a811d45190",
@@ -255,8 +255,8 @@
     "address": "0x0272ec6b528511f6d6d10f034df8eab8ec2e6fec",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1143171706040212769956",
-    "totalAirdropAmount": "1143171706040212769956"
+    "liqAirdropAmount": "1128782211868413005350",
+    "totalAirdropAmount": "1128782211868413005350"
   },
   {
     "address": "0x029cdbd020ea770f0947b83d0e57a3b819af4a3c",
@@ -304,8 +304,8 @@
     "address": "0x0374c23adf05ed6e8d07761d761db980291095fe",
     "veAirdropAmount": "74057516658241452772198",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1634740809797759432898",
-    "totalAirdropAmount": "75692257468039212205096"
+    "liqAirdropAmount": "1614163766794771894828",
+    "totalAirdropAmount": "75671680425036224667026"
   },
   {
     "address": "0x037dfee5a8f3faf1758afec404a95e101fc2644d",
@@ -346,8 +346,8 @@
     "address": "0x042b32ac6b453485e357938bdc38e0340d4b9276",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "133322766368918275677910",
-    "totalAirdropAmount": "133322766368918275677910"
+    "liqAirdropAmount": "131644587002251649175169",
+    "totalAirdropAmount": "131644587002251649175169"
   },
   {
     "address": "0x0439191da57f863df6b1d4a661f37103b831a35a",
@@ -654,8 +654,8 @@
     "address": "0x0955dade18270c6e61c29e498b314924cfd830c8",
     "veAirdropAmount": "5832308086128943826661",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "19634636085100715228",
-    "totalAirdropAmount": "5851942722214044541889"
+    "liqAirdropAmount": "19387488189452895908",
+    "totalAirdropAmount": "5851695574318396722569"
   },
   {
     "address": "0x0977953c291f865544ade5fdf21d2038503bcc24",
@@ -731,8 +731,8 @@
     "address": "0x0ae0670acc7a0b8850132ebe3cbb43b7bbf92b11",
     "veAirdropAmount": "3593306082772355534830",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "11345163872915771258371",
-    "totalAirdropAmount": "14938469955688126793201"
+    "liqAirdropAmount": "11202358405841263264538",
+    "totalAirdropAmount": "14795664488613618799368"
   },
   {
     "address": "0x0ae259ed06d4096f7d075e1e44b8e74b715f7d3a",
@@ -1025,8 +1025,8 @@
     "address": "0x0fc59c9c998537c940a9dfc7dacde533a9c496fe",
     "veAirdropAmount": "1051905420617502764317",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "826071625042818365957",
-    "totalAirdropAmount": "1877977045660321130274"
+    "liqAirdropAmount": "815673578300376805661",
+    "totalAirdropAmount": "1867578998917879569978"
   },
   {
     "address": "0x0fd6fb53c900f8738f0da98dc7165faff3d28f86",
@@ -1130,8 +1130,8 @@
     "address": "0x11d8d4c6f43f79a4037772d3e61a1b3ef6cbab41",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "25059536744457656152",
-    "totalAirdropAmount": "25059536744457656152"
+    "liqAirdropAmount": "24744103764418793069",
+    "totalAirdropAmount": "24744103764418793069"
   },
   {
     "address": "0x11f261fad79440ac516ca2ccc09fdcb447eded50",
@@ -1235,8 +1235,8 @@
     "address": "0x13900d21774402731959bc2ec6d8166c0e86b87c",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "215536274417714108130652",
-    "totalAirdropAmount": "215536274417714108130652"
+    "liqAirdropAmount": "212823245440389127475795",
+    "totalAirdropAmount": "212823245440389127475795"
   },
   {
     "address": "0x139776871ee95f55d20b10d9ba5a0385451066cd",
@@ -1270,8 +1270,8 @@
     "address": "0x13d64c4063785695733f9c04a5cb0c03789ca5e6",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "95250231399738598484",
-    "totalAirdropAmount": "95250231399738598484"
+    "liqAirdropAmount": "94051284082946885915",
+    "totalAirdropAmount": "94051284082946885915"
   },
   {
     "address": "0x143c968f5ee3dd06b2539486b8507d1b0785018a",
@@ -1641,8 +1641,8 @@
     "address": "0x1adb67a4c80a760579378624714dc01b89e69549",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "6348874620726431770",
-    "totalAirdropAmount": "6348874620726431770"
+    "liqAirdropAmount": "6268959159322231473",
+    "totalAirdropAmount": "6268959159322231473"
   },
   {
     "address": "0x1ae3fd09348f0e846c5e14e2149e4491e5711fd4",
@@ -1655,8 +1655,8 @@
     "address": "0x1ae6dcbc88d6f81a7bcfccc7198397d776f3592e",
     "veAirdropAmount": "659163632523333733502864",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "11305518066908828828943",
-    "totalAirdropAmount": "670469150590242562331807"
+    "liqAirdropAmount": "11163211635186104755655",
+    "totalAirdropAmount": "670326844158519838258519"
   },
   {
     "address": "0x1af454f536c09d0930b51d204a58bbc83aaafecb",
@@ -1676,8 +1676,8 @@
     "address": "0x1b0ab7ba167e565ecca1bb96842c17c55c5a9a1f",
     "veAirdropAmount": "2571189576783384374052",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "182220478399690858020",
-    "totalAirdropAmount": "2753410055183075232072"
+    "liqAirdropAmount": "179926806768333423419",
+    "totalAirdropAmount": "2751116383551717797471"
   },
   {
     "address": "0x1b267bae8872c4ced4d61eebb3cc9370451f0686",
@@ -1739,8 +1739,8 @@
     "address": "0x1b921dbd13a280ee14ba6361c1196eb72aaa094e",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "6205499413427632894104",
-    "totalAirdropAmount": "6205499413427632894104"
+    "liqAirdropAmount": "6127388664910311969530",
+    "totalAirdropAmount": "6127388664910311969530"
   },
   {
     "address": "0x1b9eb196038308c09782c15e8b4789752b34db35",
@@ -1753,8 +1753,8 @@
     "address": "0x1bb6b8a361b3fd224323b23bf350cf926172678c",
     "veAirdropAmount": "12316368218524811826663",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "53186314857050747012",
-    "totalAirdropAmount": "12369554533381862573675"
+    "liqAirdropAmount": "52516840478345193627",
+    "totalAirdropAmount": "12368885059003157020290"
   },
   {
     "address": "0x1be5b7bab36a7853a868cb33fcb4520d1cffbfa3",
@@ -1774,8 +1774,8 @@
     "address": "0x1bfd64ab61eacf714b2aa37347057203f3aca71f",
     "veAirdropAmount": "12378743018988085701288728",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "10082838381611350557654",
-    "totalAirdropAmount": "12388825857369697051846382"
+    "liqAirdropAmount": "9955922238252662628380",
+    "totalAirdropAmount": "12388698941226338363917108"
   },
   {
     "address": "0x1bfe6f21bd35bdec399fb216e0e72a7fe7663bff",
@@ -1816,8 +1816,8 @@
     "address": "0x1c8b73fadec1a1155ae9b3a4397cfdca36413d69",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "27161365372706132339294",
-    "totalAirdropAmount": "27161365372706132339294"
+    "liqAirdropAmount": "26819475955164048322755",
+    "totalAirdropAmount": "26819475955164048322755"
   },
   {
     "address": "0x1cb68bb627cb51ee59e197828aa0d3804341f012",
@@ -1858,8 +1858,8 @@
     "address": "0x1d1cfd4ffb8cfd0a903a38c3b41d593369b46103",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "197901670831177182502",
-    "totalAirdropAmount": "197901670831177182502"
+    "liqAirdropAmount": "195410614654779402346",
+    "totalAirdropAmount": "195410614654779402346"
   },
   {
     "address": "0x1d472b08ecb59eda713506f9a438421a49eac811",
@@ -1956,8 +1956,8 @@
     "address": "0x1f2f10d1c40777ae1da742455c65828ff36df387",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "146239196970519",
-    "totalAirdropAmount": "146239196970519"
+    "liqAirdropAmount": "144398434063794",
+    "totalAirdropAmount": "144398434063794"
   },
   {
     "address": "0x1f5645fe710d8feff37785a3112a30ebceddebdd",
@@ -1970,8 +1970,8 @@
     "address": "0x1f7ffae0d8237cadcf4f90b71b79d993144bf672",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "464369433818984390570",
-    "totalAirdropAmount": "464369433818984390570"
+    "liqAirdropAmount": "458524256558040896202",
+    "totalAirdropAmount": "458524256558040896202"
   },
   {
     "address": "0x1fa54bc70b7f543e518256b2a666a5f123ad9ad4",
@@ -1991,8 +1991,8 @@
     "address": "0x2004e60f61d5c8490f2a20379a90c4f630a22517",
     "veAirdropAmount": "602052615253420920735332",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "413950075980592439823",
-    "totalAirdropAmount": "602466565329401513175155"
+    "liqAirdropAmount": "408739544461778524448",
+    "totalAirdropAmount": "602461354797882699259780"
   },
   {
     "address": "0x200b84a4a15ad845edb8ce10a4ee527ee9233f3d",
@@ -2019,8 +2019,8 @@
     "address": "0x20907a020a4a85669f2940d645e94c5b6490d1ad",
     "veAirdropAmount": "1436976578986935375393251",
     "testnetAirdropAmount": "2000000000000000000000",
-    "liqAirdropAmount": "9706527681314403903573",
-    "totalAirdropAmount": "1448683106668249779296824"
+    "liqAirdropAmount": "9584348289749079834825",
+    "totalAirdropAmount": "1448560927276684455228076"
   },
   {
     "address": "0x20ac3c63ce13ff43880fd8a1c6f42f1466c18591",
@@ -2236,8 +2236,8 @@
     "address": "0x23807719299c9ba3c6d60d4097146259c7a16da3",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "391462494784244049418",
-    "totalAirdropAmount": "391462494784244049418"
+    "liqAirdropAmount": "386535022159254214184",
+    "totalAirdropAmount": "386535022159254214184"
   },
   {
     "address": "0x23b4547af0ce59ce1ad97bed5f4eee7b2a1bdda5",
@@ -2348,8 +2348,8 @@
     "address": "0x24ed8e6af63d1f8889eaac131d52e2f91fa720d2",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "27709119757544677344633",
-    "totalAirdropAmount": "27709119757544677344633"
+    "liqAirdropAmount": "27360335567776718494544",
+    "totalAirdropAmount": "27360335567776718494544"
   },
   {
     "address": "0x24ef030230979fbf021a138f9ddb62e9432b9157",
@@ -2439,8 +2439,8 @@
     "address": "0x25e849e019000018d8e400bf0007000888e66000",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "184789828713841",
-    "totalAirdropAmount": "184789828713841"
+    "liqAirdropAmount": "182463815789242",
+    "totalAirdropAmount": "182463815789242"
   },
   {
     "address": "0x25f028f3fd733ea8aa39ec174ea72cb1994dfed2",
@@ -2614,22 +2614,22 @@
     "address": "0x282fa582e6b186492a6aed6103ee487bb6487875",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "547416135055709453240",
-    "totalAirdropAmount": "547416135055709453240"
+    "liqAirdropAmount": "540525620495811661901",
+    "totalAirdropAmount": "540525620495811661901"
   },
   {
     "address": "0x28430f7887e17c4028f4ae55e1c1c1a3962d81c9",
     "veAirdropAmount": "18276113405060659893746",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "5258915219915042732548",
-    "totalAirdropAmount": "23535028624975702626294"
+    "liqAirdropAmount": "5192719451154216990457",
+    "totalAirdropAmount": "23468832856214876884203"
   },
   {
     "address": "0x28552ea8b232fc63d6ce69692d8a723efc5d4502",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "197514728741110555061",
-    "totalAirdropAmount": "197514728741110555061"
+    "liqAirdropAmount": "195028543137453876228",
+    "totalAirdropAmount": "195028543137453876228"
   },
   {
     "address": "0x288e865dffe68311f7873b0141dbc5e84858c0d9",
@@ -2684,8 +2684,8 @@
     "address": "0x297eca4d5a103ce0941119b9cb056aba3dcc8a71",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "183369389593777497243881",
-    "totalAirdropAmount": "183369389593777497243881"
+    "liqAirdropAmount": "181061256223344582360389",
+    "totalAirdropAmount": "181061256223344582360389"
   },
   {
     "address": "0x29ccecdca2f1b5058fe1269ec91c8b63e51c8a49",
@@ -2824,8 +2824,8 @@
     "address": "0x2ca74be68f0a0e053f030d143c1376806babedc9",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "3428317000641660705752",
-    "totalAirdropAmount": "3428317000641660705752"
+    "liqAirdropAmount": "3385163599241713960762",
+    "totalAirdropAmount": "3385163599241713960762"
   },
   {
     "address": "0x2cb97574aab3571cbe9401402024b6dbb1f1155f",
@@ -2887,8 +2887,8 @@
     "address": "0x2d52f7bae61912f7217351443ea8a226996a3def",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "498385389185167791280",
-    "totalAirdropAmount": "498385389185167791280"
+    "liqAirdropAmount": "492112041432509311228",
+    "totalAirdropAmount": "492112041432509311228"
   },
   {
     "address": "0x2dae4b0bec09f06af3c55aad964afe925250da2c",
@@ -2922,8 +2922,8 @@
     "address": "0x2e1e4466b0987ca309451b0cdfe1a24114cb0023",
     "veAirdropAmount": "41193860823955536248920",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "824317849583591799267",
-    "totalAirdropAmount": "42018178673539128048187"
+    "liqAirdropAmount": "813941878214093643875",
+    "totalAirdropAmount": "42007802702169629892795"
   },
   {
     "address": "0x2e4a1698ee20315ad4bbb614f68008245ba389c1",
@@ -3195,8 +3195,8 @@
     "address": "0x32776d56fcc46978549f18371112c90233210ac8",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "11987743075591565341",
-    "totalAirdropAmount": "11987743075591565341"
+    "liqAirdropAmount": "11836849243800744273",
+    "totalAirdropAmount": "11836849243800744273"
   },
   {
     "address": "0x327fe50eae2a4e5cfc4a12cdfdff67d2376516e5",
@@ -3265,8 +3265,8 @@
     "address": "0x33f63b9e152abc67eebdae3ba1e43993da514192",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "36563086890159032071",
-    "totalAirdropAmount": "36563086890159032071"
+    "liqAirdropAmount": "36102854780731330259",
+    "totalAirdropAmount": "36102854780731330259"
   },
   {
     "address": "0x33fd2d3010e89a1566cfbaa5ebea21c848a1792d",
@@ -3286,8 +3286,8 @@
     "address": "0x340efe9bb2383d463313e7d988ddea6b52b27b0b",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "199312490699834632280",
-    "totalAirdropAmount": "199312490699834632280"
+    "liqAirdropAmount": "196803676050085700477",
+    "totalAirdropAmount": "196803676050085700477"
   },
   {
     "address": "0x342fdc95210b779942f3e91f175c72cbb84c5adf",
@@ -3368,10 +3368,10 @@
   },
   {
     "address": "0x34c9c2e48f43dace5192002c0d1c3c40edf463bd",
-    "veAirdropAmount": "4318375645296957362113876",
+    "veAirdropAmount": "4536254688701664950537210",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "19262714010250972719652",
-    "totalAirdropAmount": "4337638359307208334833528"
+    "liqAirdropAmount": "19020247625263482661772",
+    "totalAirdropAmount": "4555274936326928433198982"
   },
   {
     "address": "0x35011a1a4a72b2ef4f6d04acf11a346c8db13803",
@@ -3384,8 +3384,8 @@
     "address": "0x3523481702186c04740e50396d0e1c807ce36c57",
     "veAirdropAmount": "8846363184455273011096",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "485653782091405006584",
-    "totalAirdropAmount": "9332016966546678017680"
+    "liqAirdropAmount": "479540691441949271253",
+    "totalAirdropAmount": "9325903875897222282349"
   },
   {
     "address": "0x353d5bb4fda9e59f1d198791a5eb1dfc84548c3c",
@@ -3405,8 +3405,8 @@
     "address": "0x3569b9b969462aabcf171c1da1c2627985083345",
     "veAirdropAmount": "3341406433009802231698",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "26035926871222430345",
-    "totalAirdropAmount": "3367442359881024662043"
+    "liqAirdropAmount": "25708203733927006951",
+    "totalAirdropAmount": "3367114636743729238649"
   },
   {
     "address": "0x356a22b7cd747f5244346458e54e9f90f3a5791f",
@@ -3419,8 +3419,8 @@
     "address": "0x359b0ceb2dabcbb6588645de3b480c8203aa5b76",
     "veAirdropAmount": "1610278214584304534057622",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4084246098357759628981",
-    "totalAirdropAmount": "1614362460682662293686603"
+    "liqAirdropAmount": "4032836292535949357871",
+    "totalAirdropAmount": "1614311050876840483415493"
   },
   {
     "address": "0x359ea5f2f9d74503f88843ff869d8531ee42401e",
@@ -3566,8 +3566,8 @@
     "address": "0x37a8f295612602f2774d331e562be9e61b83a327",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "856589077454796652",
-    "totalAirdropAmount": "856589077454796652"
+    "liqAirdropAmount": "845806897076699057",
+    "totalAirdropAmount": "845806897076699057"
   },
   {
     "address": "0x37b41606782520868939fcb31c36656e44911e37",
@@ -3594,8 +3594,8 @@
     "address": "0x3830f1290da3fdb91a337a1458aa34f60c49ffcc",
     "veAirdropAmount": "89595190138869066455520",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "100764862170359050866",
-    "totalAirdropAmount": "89695955001039425506386"
+    "liqAirdropAmount": "99496500305504092850",
+    "totalAirdropAmount": "89694686639174570548370"
   },
   {
     "address": "0x3867245875916ccb434413a1663e4f22e55dc14c",
@@ -3615,8 +3615,8 @@
     "address": "0x38789fb3789110b6cdddd696376c358858d4a11f",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "5925059053774065571883",
-    "totalAirdropAmount": "5925059053774065571883"
+    "liqAirdropAmount": "5850478304205678120826",
+    "totalAirdropAmount": "5850478304205678120826"
   },
   {
     "address": "0x3894b3e528a9c86f4269d6ff7dc1b8d083372782",
@@ -3685,15 +3685,15 @@
     "address": "0x39041f1b366fe33f9a5a79de5120f2aee2577ebc",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "7488251944583513669",
-    "totalAirdropAmount": "7488251944583513669"
+    "liqAirdropAmount": "7393994750196861852",
+    "totalAirdropAmount": "7393994750196861852"
   },
   {
     "address": "0x3940bc411339515a3da4ba88639201de8421566a",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4638706716114945128",
-    "totalAirdropAmount": "4638706716114945128"
+    "liqAirdropAmount": "4580317724414448611",
+    "totalAirdropAmount": "4580317724414448611"
   },
   {
     "address": "0x399f36171c572f809171b0190f5c6fdc807c86cd",
@@ -3993,8 +3993,8 @@
     "address": "0x3f57b19e454ceade4a600d48b83112c681d392c7",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "189213196028368045881",
-    "totalAirdropAmount": "189213196028368045881"
+    "liqAirdropAmount": "186831504662939837884",
+    "totalAirdropAmount": "186831504662939837884"
   },
   {
     "address": "0x3f60028af6e6482fc50c5fd7840e710b2c96c6d2",
@@ -4014,8 +4014,8 @@
     "address": "0x3f86c3a4d4857a6f92999f214e2ed3ae7bb852c1",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "21291875058933863635790",
-    "totalAirdropAmount": "21291875058933863635790"
+    "liqAirdropAmount": "21023866928179409631633",
+    "totalAirdropAmount": "21023866928179409631633"
   },
   {
     "address": "0x3f9cb04c52dd73970d324f2383114724480d479d",
@@ -4070,8 +4070,8 @@
     "address": "0x4059457092cc3812d56676df6a75fd21204fbe2f",
     "veAirdropAmount": "59597992701610930723178",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1190942670999447903994",
-    "totalAirdropAmount": "60788935372610378627172"
+    "liqAirdropAmount": "1175951867314623868981",
+    "totalAirdropAmount": "60773944568925554592159"
   },
   {
     "address": "0x405ed99e12daf1ee89dbdd1d0d4fd933d63eb13d",
@@ -4112,8 +4112,8 @@
     "address": "0x4096d69dee9ebdbe23c939a241660f7861e0a223",
     "veAirdropAmount": "24108524045324297114778",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "141961458194544632865",
-    "totalAirdropAmount": "24250485503518841747643"
+    "liqAirdropAmount": "140174540652309084372",
+    "totalAirdropAmount": "24248698585976606199150"
   },
   {
     "address": "0x40a1a877ec23e8a89fc8fa23930e2513c0f02ae0",
@@ -4175,8 +4175,8 @@
     "address": "0x41d7e3da4678ac1f5b7f607c9f6f2140b87adc7c",
     "veAirdropAmount": "1686763772232520296398637",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "901073003892651044867746",
-    "totalAirdropAmount": "2587836776125171341266383"
+    "liqAirdropAmount": "889730889082276870891708",
+    "totalAirdropAmount": "2576494661314797167290345"
   },
   {
     "address": "0x4213e66c598e041a4185b5709a68e57342d221c6",
@@ -4259,8 +4259,8 @@
     "address": "0x43e0eed8ef9f6a3bae31151dbccb778b809c5b7b",
     "veAirdropAmount": "2313827946869994098200474",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "16657901363114514225121",
-    "totalAirdropAmount": "2330485848233108612425595"
+    "liqAirdropAmount": "16448222647911498262061",
+    "totalAirdropAmount": "2330276169517905596462535"
   },
   {
     "address": "0x43e65d3ce3ff5352cad6fe33fe5c89e6ddc236e8",
@@ -4273,8 +4273,8 @@
     "address": "0x4421e6f16a59582c8108d153aab0fb7b4a3eddbe",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "70930790869131338016",
-    "totalAirdropAmount": "70930790869131338016"
+    "liqAirdropAmount": "70037960687611248703",
+    "totalAirdropAmount": "70037960687611248703"
   },
   {
     "address": "0x445ebb2ce29788548f00a180d2ac8bb17aa98834",
@@ -4518,15 +4518,15 @@
     "address": "0x49072cd3bf4153da87d5eb30719bb32bda60884b",
     "veAirdropAmount": "10445677436406939363306",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "137333515107669364532",
-    "totalAirdropAmount": "10583010951514608727838"
+    "liqAirdropAmount": "135604851071643031254",
+    "totalAirdropAmount": "10581282287478582394560"
   },
   {
     "address": "0x4917301cd148fa9265478f64763f71a1d0bc6b9e",
     "veAirdropAmount": "272155590259990278514627",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "3265956642069579093381",
-    "totalAirdropAmount": "275421546902059857608008"
+    "liqAirdropAmount": "3224846926164173538566",
+    "totalAirdropAmount": "275380437186154452053193"
   },
   {
     "address": "0x4917530d592f7687f43b721178422ab74e2c4b28",
@@ -4609,8 +4609,8 @@
     "address": "0x4a266739e40664e80470cc335120a2a1fa0b3f3f",
     "veAirdropAmount": "899286550853001995694152",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "39338723064280414398573",
-    "totalAirdropAmount": "938625273917282410092725"
+    "liqAirdropAmount": "38843553070771498912320",
+    "totalAirdropAmount": "938130103923773494606472"
   },
   {
     "address": "0x4a8accbe599634a37c97f89128e70ca6c5655bc7",
@@ -4637,8 +4637,8 @@
     "address": "0x4ad41b780af5a7bf7552cf8e090f825734e6074f",
     "veAirdropAmount": "58669442748915529542862",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "13947574849630322956999",
-    "totalAirdropAmount": "72617017598545852499861"
+    "liqAirdropAmount": "13772011943420294137719",
+    "totalAirdropAmount": "72441454692335823680581"
   },
   {
     "address": "0x4ae9ef198a62dda4c9b25a46a076357ee2fdc4d3",
@@ -4728,8 +4728,8 @@
     "address": "0x4c80e678568178da3918e0535a4148278529fba8",
     "veAirdropAmount": "142522740294049836570153",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2692505305426474260867",
-    "totalAirdropAmount": "145215245599476310831020"
+    "liqAirdropAmount": "2658613818088865744244",
+    "totalAirdropAmount": "145181354112138702314397"
   },
   {
     "address": "0x4c84304d53689e4c677627cb629455fa25d16e6c",
@@ -4882,8 +4882,8 @@
     "address": "0x4eb71d22af87ecf228a856075c80c143890256e4",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "121246481648193162898",
-    "totalAirdropAmount": "121246481648193162898"
+    "liqAirdropAmount": "119720310617358945356",
+    "totalAirdropAmount": "119720310617358945356"
   },
   {
     "address": "0x4ee93b5d2226bdafa3b47099d8723134c0041924",
@@ -4931,8 +4931,8 @@
     "address": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "14182996592081960",
-    "totalAirdropAmount": "14182996592081960"
+    "liqAirdropAmount": "14004470351691228",
+    "totalAirdropAmount": "14004470351691228"
   },
   {
     "address": "0x4f91a8aa143b65c235d9b6e5d78be8a6e8d73792",
@@ -5155,8 +5155,8 @@
     "address": "0x5275817b74021e97c980e95ede6bbac0d0d6f3a2",
     "veAirdropAmount": "1068582664908916361488552",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "73876024170301970645321",
-    "totalAirdropAmount": "1142458689079218332133873"
+    "liqAirdropAmount": "72946121327520358992828",
+    "totalAirdropAmount": "1141528786236436720481380"
   },
   {
     "address": "0x5275e4555bcfa81d64ce18b486bd4b4fa20c4901",
@@ -5351,8 +5351,8 @@
     "address": "0x5488ad7a97eeca612d73e395442ec60790b4a788",
     "veAirdropAmount": "66460696853870101122578",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "866347400370641343957",
-    "totalAirdropAmount": "67327044254240742466535"
+    "liqAirdropAmount": "855442388636604689872",
+    "totalAirdropAmount": "67316139242506705812450"
   },
   {
     "address": "0x5497a61cf69128c86b7641a79d4af9b20bffaaa3",
@@ -5386,8 +5386,8 @@
     "address": "0x54b2bc420f9d59a4a4eda1c5121d6fa43ad80193",
     "veAirdropAmount": "15857717921331243978648",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1922448083832549471502",
-    "totalAirdropAmount": "17780166005163793450150"
+    "liqAirdropAmount": "1898249570738031886709",
+    "totalAirdropAmount": "17755967492069275865357"
   },
   {
     "address": "0x54da0c656a339a512135e6e128cb94e28c9638a9",
@@ -5428,8 +5428,8 @@
     "address": "0x552bde1dd231ed6d2d903428532b4d647ad6ec06",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2664992220263368830",
-    "totalAirdropAmount": "2664992220263368830"
+    "liqAirdropAmount": "2631447049560882500",
+    "totalAirdropAmount": "2631447049560882500"
   },
   {
     "address": "0x552c52ef31d3c2e62c53a92276e4a7f2921675eb",
@@ -5477,8 +5477,8 @@
     "address": "0x5592cb82f5b11a4e42b1275a973e6b712194e239",
     "veAirdropAmount": "2677775918753490545982670",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "393744931436977623900680",
-    "totalAirdropAmount": "3071520850190468169883350"
+    "liqAirdropAmount": "388788728999363422832766",
+    "totalAirdropAmount": "3066564647752853968815436"
   },
   {
     "address": "0x55937c43e5a30d9f461e21bb7325d5bd9057f85b",
@@ -5505,15 +5505,15 @@
     "address": "0x55f007605d7f78ba48beae6034ec46a2bbe98d3d",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "71560621396005872221",
-    "totalAirdropAmount": "71560621396005872221"
+    "liqAirdropAmount": "70659863321722345424",
+    "totalAirdropAmount": "70659863321722345424"
   },
   {
     "address": "0x56025c57c2621b08f5cf7f0d3acab5c2a818e5fa",
     "veAirdropAmount": "444843112965191925813108",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "121344941756043805191",
-    "totalAirdropAmount": "444964457906947969618299"
+    "liqAirdropAmount": "119817531374077482429",
+    "totalAirdropAmount": "444962930496566003295537"
   },
   {
     "address": "0x56173b180febabc82bd485187fa08e26e4056606",
@@ -5540,8 +5540,8 @@
     "address": "0x5662e5cc63930f966477d4736ff960a9010d70cf",
     "veAirdropAmount": "134856059715012942489945",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "313668074530336896935",
-    "totalAirdropAmount": "135169727789543279386880"
+    "liqAirdropAmount": "309719826942957257054",
+    "totalAirdropAmount": "135165779541955899746999"
   },
   {
     "address": "0x56699772554fe2d715c8a6d0aa330d8166ad5ce5",
@@ -5785,8 +5785,8 @@
     "address": "0x5a1cae6f827791bf6108049bb0ce72c5dae856f2",
     "veAirdropAmount": "214275182827995148653497",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "19272074476871507049890",
-    "totalAirdropAmount": "233547257304866655703387"
+    "liqAirdropAmount": "19029490268481662099421",
+    "totalAirdropAmount": "233304673096476810752918"
   },
   {
     "address": "0x5a68aae2011303283fdf6012228bd5f7a70aec42",
@@ -5855,8 +5855,8 @@
     "address": "0x5bff1a68663ff91b0650327d83d4230cd00023ad",
     "veAirdropAmount": "855352698264505894807838",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "534953762028032083327",
-    "totalAirdropAmount": "855887652026533926891165"
+    "liqAirdropAmount": "528220115629847043473",
+    "totalAirdropAmount": "855880918380135741851311"
   },
   {
     "address": "0x5c01ced43e4a561d124512f9d1cb550de2318a70",
@@ -5869,8 +5869,8 @@
     "address": "0x5c0721a11b3b3486755df2c5448032974531a544",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1353024443218689705283",
-    "totalAirdropAmount": "1353024443218689705283"
+    "liqAirdropAmount": "1335993460701254048883",
+    "totalAirdropAmount": "1335993460701254048883"
   },
   {
     "address": "0x5c0b6970b78ce049d542aab6678de36fce915c5d",
@@ -5911,8 +5911,8 @@
     "address": "0x5c988c4e1f3cf1ca871a54af3a1dcb5fef2612fc",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "104540475634901427486729",
-    "totalAirdropAmount": "104540475634901427486729"
+    "liqAirdropAmount": "103224588828993484612991",
+    "totalAirdropAmount": "103224588828993484612991"
   },
   {
     "address": "0x5ca2ccb0a103821195b3d1712a7941a2ab89e58f",
@@ -5953,8 +5953,8 @@
     "address": "0x5d29b68aafb22c491977eacf7dfb1661d2832555",
     "veAirdropAmount": "4738631206554395232674",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "7450554639533960250",
-    "totalAirdropAmount": "4746081761193929192924"
+    "liqAirdropAmount": "7356771954049546804",
+    "totalAirdropAmount": "4745987978508444779478"
   },
   {
     "address": "0x5d2f4253582b20556d7229732593f7a234bad02e",
@@ -6058,8 +6058,8 @@
     "address": "0x5f350bf5fee8e254d6077f8661e9c7b83a30364e",
     "veAirdropAmount": "15420945114419769363630201",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "23012028548406138010475",
-    "totalAirdropAmount": "15443957142968175501640676"
+    "liqAirdropAmount": "22722368255968029086974",
+    "totalAirdropAmount": "15443667482675737392717175"
   },
   {
     "address": "0x5f37bfb9d213762fc588b5a20f2a08e9af475b12",
@@ -6086,8 +6086,8 @@
     "address": "0x5f62a5a92c5be0f33cc9366c1fa177e02b98b47a",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "231962622807147123222",
-    "totalAirdropAmount": "231962622807147123222"
+    "liqAirdropAmount": "229042829751281010213",
+    "totalAirdropAmount": "229042829751281010213"
   },
   {
     "address": "0x5f689018fc63adf27748100b5f56cd08ca97a4df",
@@ -6121,8 +6121,8 @@
     "address": "0x5fa319fe0515ed815ec62558d601e09807211c3c",
     "veAirdropAmount": "250682070031694590221494",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "101651499215491593063",
-    "totalAirdropAmount": "250783721530910081814557"
+    "liqAirdropAmount": "100371976946188182322",
+    "totalAirdropAmount": "250782442008640778403816"
   },
   {
     "address": "0x5fb52e1ab0ade7f39b53d4d0bc7d241270fba13c",
@@ -6289,8 +6289,8 @@
     "address": "0x61f8c99f4acde25dac0c591f5e6b4b635ab2f7c5",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "73381238383149501813",
-    "totalAirdropAmount": "73381238383149501813"
+    "liqAirdropAmount": "72457563578695729393",
+    "totalAirdropAmount": "72457563578695729393"
   },
   {
     "address": "0x621ac724d0e4f8a6efabc22bc7a35f13e44e2514",
@@ -6408,8 +6408,8 @@
     "address": "0x6415a12867ff9c118dd8c4a7fdf41ff0ac879c20",
     "veAirdropAmount": "155539559289673854522045",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "9113299680185228683888",
-    "totalAirdropAmount": "164652858969859083205933"
+    "liqAirdropAmount": "8998587452843523368387",
+    "totalAirdropAmount": "164538146742517377890432"
   },
   {
     "address": "0x6452ff6e3ce761d0d4d4aec50aec9096377663b8",
@@ -6527,8 +6527,8 @@
     "address": "0x660000c7feae0027f565680000005c683400e700",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "333351300341",
-    "totalAirdropAmount": "333351300341"
+    "liqAirdropAmount": "329155293243",
+    "totalAirdropAmount": "329155293243"
   },
   {
     "address": "0x660b3a2554187d740d35f29b3ad4ea82cd0f5783",
@@ -6541,8 +6541,8 @@
     "address": "0x662d18647c9970510e734611349ebd928bb331c7",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "78451922892765122101",
-    "totalAirdropAmount": "78451922892765122101"
+    "liqAirdropAmount": "77464421644031261211",
+    "totalAirdropAmount": "77464421644031261211"
   },
   {
     "address": "0x662e2984f46d191c28b16cd62439d9dca8b3d6e0",
@@ -6597,8 +6597,8 @@
     "address": "0x66a3f83c9c515aa14a65d914e2f051761cf7ee96",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "514716119899718240174",
-    "totalAirdropAmount": "514716119899718240174"
+    "liqAirdropAmount": "508237211640972506654",
+    "totalAirdropAmount": "508237211640972506654"
   },
   {
     "address": "0x66a5fc6383c8778e0a1e934a3fc3ad5b5acd2739",
@@ -6625,8 +6625,8 @@
     "address": "0x66f576c1eda4044a01bf68a78564f39ba3bbf65b",
     "veAirdropAmount": "683991235159557924810770",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4450437162228393371817",
-    "totalAirdropAmount": "688441672321786318182587"
+    "liqAirdropAmount": "4394417983946181877343",
+    "totalAirdropAmount": "688385653143504106688113"
   },
   {
     "address": "0x66f577f8b9980181a2e48b2c1bb0a3de1c097d7b",
@@ -6660,8 +6660,8 @@
     "address": "0x673ede4b865505bd157e3110d696647605aae59d",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "173182238378750281768507",
-    "totalAirdropAmount": "173182238378750281768507"
+    "liqAirdropAmount": "171002334173071310294605",
+    "totalAirdropAmount": "171002334173071310294605"
   },
   {
     "address": "0x67a2b590217a29f4ce195a87f088b886460c698b",
@@ -6926,8 +6926,8 @@
     "address": "0x6b12e9d58bb0ffbbddaaf0f9461c00ea4c4b563f",
     "veAirdropAmount": "7921549805892589795901417",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "142159063904634790735701",
-    "totalAirdropAmount": "8063708869797224586637118"
+    "liqAirdropAmount": "140369659031582154422066",
+    "totalAirdropAmount": "8061919464924171950323483"
   },
   {
     "address": "0x6b1d77806ec090474eeed1a087b813f10fb74485",
@@ -6961,8 +6961,8 @@
     "address": "0x6b75d8af000000e20b7a7ddf000ba900b4009a80",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "380831242111",
-    "totalAirdropAmount": "380831242111"
+    "liqAirdropAmount": "376037588708",
+    "totalAirdropAmount": "376037588708"
   },
   {
     "address": "0x6ba44b63b558207ad84e4e34425e3cccc14949f4",
@@ -7038,8 +7038,8 @@
     "address": "0x6c86b9442246ff449eb67b969c4fa51f43253858",
     "veAirdropAmount": "807121871542464339710019",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "14585493548384955164072",
-    "totalAirdropAmount": "821707365090849294874091"
+    "liqAirdropAmount": "14401900940819206320205",
+    "totalAirdropAmount": "821523772483283546030224"
   },
   {
     "address": "0x6c942de7a4abb37efe89a16a2b872d79b0e5a4ed",
@@ -7059,8 +7059,8 @@
     "address": "0x6cdbd3b8363502f6332c8d89a84976cc13801186",
     "veAirdropAmount": "7824966818636698677582",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "119352155827207054647",
-    "totalAirdropAmount": "7944318974463905732229"
+    "liqAirdropAmount": "117849829324903891000",
+    "totalAirdropAmount": "7942816647961602568582"
   },
   {
     "address": "0x6cde3dea7e510e1184c96a007921081d446d7ffc",
@@ -7157,8 +7157,8 @@
     "address": "0x6db995701fc2e6ef646a801322c78e2e8172ea34",
     "veAirdropAmount": "601351099052013209431533",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4031717826696402248863",
-    "totalAirdropAmount": "605382816878709611680396"
+    "liqAirdropAmount": "3980969212237999662043",
+    "totalAirdropAmount": "605332068264251209093576"
   },
   {
     "address": "0x6dd9d1e0ace2bc5802e13d1bcca2016c8161f219",
@@ -7178,8 +7178,8 @@
     "address": "0x6dec0db368c4087045ccfc95fd703e7b70bf9ef5",
     "veAirdropAmount": "134710530319229144546075",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "204497490897100897981",
-    "totalAirdropAmount": "134915027810126245444056"
+    "liqAirdropAmount": "201923410872321140268",
+    "totalAirdropAmount": "134912453730101465686343"
   },
   {
     "address": "0x6e16ae970cfacd14a6e97e7babf864c0975e3fb8",
@@ -7248,8 +7248,8 @@
     "address": "0x6f6830ba0571887fe2b5ce0be27814fffc4029da",
     "veAirdropAmount": "42207634342971197315331",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1074409763951003686275",
-    "totalAirdropAmount": "43282044106922201001606"
+    "liqAirdropAmount": "1060885799917595486859",
+    "totalAirdropAmount": "43268520142888792802190"
   },
   {
     "address": "0x6f6d1172ef01008998bd113ea77e8af48b5c8cd9",
@@ -7311,8 +7311,8 @@
     "address": "0x70115b724f7e187aa73504d96125d1b84720e1ec",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "90385926470480346797578",
-    "totalAirdropAmount": "90385926470480346797578"
+    "liqAirdropAmount": "89248207827438679178961",
+    "totalAirdropAmount": "89248207827438679178961"
   },
   {
     "address": "0x701319603d80d96f0a36a73bc8d10a09a08ab4c0",
@@ -7388,8 +7388,8 @@
     "address": "0x70e7cd529eb5a1943d7f20af635b1df6f9ee8b10",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2165947272315921815",
-    "totalAirdropAmount": "2165947272315921815"
+    "liqAirdropAmount": "2138683751458348025",
+    "totalAirdropAmount": "2138683751458348025"
   },
   {
     "address": "0x70fd0bac3b49cca3096b957410dc7a16043244a4",
@@ -7486,8 +7486,8 @@
     "address": "0x72e5d8d85db805c275561d9fce16c11002c676fe",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "183642639939569794030",
-    "totalAirdropAmount": "183642639939569794030"
+    "liqAirdropAmount": "181331067073357334185",
+    "totalAirdropAmount": "181331067073357334185"
   },
   {
     "address": "0x73051a64044fea61a6100eb0b55c9087be32cca3",
@@ -7605,8 +7605,8 @@
     "address": "0x748dd80189b233b229d17b7c7206ead369d83c5b",
     "veAirdropAmount": "9440874739538499150964",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "273031642930822510",
-    "totalAirdropAmount": "9441147771181429973474"
+    "liqAirdropAmount": "269594900039171740",
+    "totalAirdropAmount": "9441144334438538322704"
   },
   {
     "address": "0x74f38399a5d2aaf1a2ae7510f0fbf0f4777afa71",
@@ -7696,8 +7696,8 @@
     "address": "0x7658f261257b99b83527a353e252544b122817eb",
     "veAirdropAmount": "124550651308666494961363",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "933384118511564669719",
-    "totalAirdropAmount": "125484035427178059631082"
+    "liqAirdropAmount": "921635292624423470862",
+    "totalAirdropAmount": "125472286601290918432225"
   },
   {
     "address": "0x767e744652e92a470189ecefb1a81354fe09f2a7",
@@ -7710,8 +7710,8 @@
     "address": "0x768a49d40b674a9ef54f5d1cf3d1054a749e905a",
     "veAirdropAmount": "66355457522374972678627",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1041400837909871954130",
-    "totalAirdropAmount": "67396858360284844632757"
+    "liqAirdropAmount": "1028292368544829458952",
+    "totalAirdropAmount": "67383749890919802137579"
   },
   {
     "address": "0x768df190a4b797062017ad7b802abcf6796bd03e",
@@ -7752,8 +7752,8 @@
     "address": "0x76cbdf46be9197e9ad3ea63f0f97e91b80da87e0",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "31128014201184",
-    "totalAirdropAmount": "31128014201184"
+    "liqAirdropAmount": "30736195214971",
+    "totalAirdropAmount": "30736195214971"
   },
   {
     "address": "0x76ed28b64e56d158e9b21904ee81775d74238237",
@@ -7766,8 +7766,8 @@
     "address": "0x770569f85346b971114e11e4bb5f7ac776673469",
     "veAirdropAmount": "66539732595996822580864",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "154236425074115730567",
-    "totalAirdropAmount": "66693969021070938311431"
+    "liqAirdropAmount": "152294998315601162122",
+    "totalAirdropAmount": "66692027594312423742986"
   },
   {
     "address": "0x770b08f2184380c7b628058db5915a96194f0148",
@@ -8109,8 +8109,8 @@
     "address": "0x7be55317fe283d15b4b84c3a373679483df28b72",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "168713138460342744",
-    "totalAirdropAmount": "168713138460342744"
+    "liqAirdropAmount": "166589488347456071",
+    "totalAirdropAmount": "166589488347456071"
   },
   {
     "address": "0x7c14bb31a31d63a3d28fcc11d10507208e98bd96",
@@ -8214,8 +8214,8 @@
     "address": "0x7de63ff3373ef54c5354d155dddfe653fd43132f",
     "veAirdropAmount": "541888095205287700788692",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1489439596368680127718",
-    "totalAirdropAmount": "543377534801656380916410"
+    "liqAirdropAmount": "1470691509552016906318",
+    "totalAirdropAmount": "543358786714839717695010"
   },
   {
     "address": "0x7de901cfbb98952aedf847bb10d6b52b8499ccc3",
@@ -8298,8 +8298,8 @@
     "address": "0x7efe8e14ecfcb3ff349253a9925a8818a8ce5480",
     "veAirdropAmount": "5149604898480242869058",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "77418979134682529728",
-    "totalAirdropAmount": "5227023877614925398786"
+    "liqAirdropAmount": "76444479903150626741",
+    "totalAirdropAmount": "5226049378383393495799"
   },
   {
     "address": "0x7f0fd456765a585e2bf1ee715318f561e5f31c94",
@@ -8326,8 +8326,8 @@
     "address": "0x7f6fa8e7f80c87500a1f20fc89f03860b01c8105",
     "veAirdropAmount": "203225369313676823443583",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2409526637040048282692",
-    "totalAirdropAmount": "205634895950716871726275"
+    "liqAirdropAmount": "2379197099213589492736",
+    "totalAirdropAmount": "205604566412890412936319"
   },
   {
     "address": "0x7f8d4eef95b6810c604db2e20353dd2b16550290",
@@ -8375,8 +8375,8 @@
     "address": "0x7ff4f8fe1dbbba8dc27103359bf96e97a4d44114",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "39561470634905555435",
-    "totalAirdropAmount": "39561470634905555435"
+    "liqAirdropAmount": "39063496841361739264",
+    "totalAirdropAmount": "39063496841361739264"
   },
   {
     "address": "0x8005e721aab225cef69fbe3f1776e34869bd045b",
@@ -8480,8 +8480,8 @@
     "address": "0x80c5f123248e5e196948c3d1a09cb4ff0c437dc2",
     "veAirdropAmount": "106868416671898513450582",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "720611293556988290356",
-    "totalAirdropAmount": "107589027965455501740938"
+    "liqAirdropAmount": "711540712161399919256",
+    "totalAirdropAmount": "107579957384059913369838"
   },
   {
     "address": "0x80cb315420e1abe8d80990684f33906793c91234",
@@ -8522,8 +8522,8 @@
     "address": "0x81352a401b713514e5ce5b0ddc4644b6b9b64ad4",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "8843398828972294390",
-    "totalAirdropAmount": "8843398828972294390"
+    "liqAirdropAmount": "8732083936173573029",
+    "totalAirdropAmount": "8732083936173573029"
   },
   {
     "address": "0x8139677144c766f0eb265c5c90bf2a466fbfc1f7",
@@ -8536,8 +8536,8 @@
     "address": "0x813b18f11f57b51e94410581ed0e68c4757bc783",
     "veAirdropAmount": "12372811038790897116479",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "6401753032242705950641",
-    "totalAirdropAmount": "18774564071033603067120"
+    "liqAirdropAmount": "6321171972144707426353",
+    "totalAirdropAmount": "18693983010935604542832"
   },
   {
     "address": "0x8160463537cd5ee3c6ee581dfe3b4cddcea32cb3",
@@ -8809,8 +8809,8 @@
     "address": "0x854f1269b659a727a2268ab86ff77cfb30bfb358",
     "veAirdropAmount": "1252190921933261770051349",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "14142724256798262873255",
-    "totalAirdropAmount": "1266333646190060032924604"
+    "liqAirdropAmount": "13964704938098110307437",
+    "totalAirdropAmount": "1266155626871359880358786"
   },
   {
     "address": "0x8567c115e718c1bb1185303e4f8a1ef338210730",
@@ -8851,8 +8851,8 @@
     "address": "0x860001218d2476481629b7c64960bd6edbedd848",
     "veAirdropAmount": "1677538269321338560729799",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "9891351067141383016118",
-    "totalAirdropAmount": "1687429620388479943745917"
+    "liqAirdropAmount": "9766845240256572425065",
+    "totalAirdropAmount": "1687305114561595133154864"
   },
   {
     "address": "0x86b0d7890bf60237d94712f4fd7b4b9ca7710cf3",
@@ -9110,8 +9110,8 @@
     "address": "0x8b53edcee18d029d98048d4bdc8795d22421f285",
     "veAirdropAmount": "23180924677836967597010",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "22204747043201176808",
-    "totalAirdropAmount": "23203129424880168773818"
+    "liqAirdropAmount": "21925248279825386986",
+    "totalAirdropAmount": "23202849926116792983996"
   },
   {
     "address": "0x8b6deed7bab8de3ceb438e89476331c4ab07f378",
@@ -9264,8 +9264,8 @@
     "address": "0x8e64cb7ba3fa9e92ac22c8e7d8e07f758c60b27a",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1731822464903339041",
-    "totalAirdropAmount": "1731822464903339041"
+    "liqAirdropAmount": "1710023421825516487",
+    "totalAirdropAmount": "1710023421825516487"
   },
   {
     "address": "0x8e746d401ff6ea9406053696fa48d63b949522f9",
@@ -9348,8 +9348,8 @@
     "address": "0x8f68e0cfd779125b984bbe15229a7872a6187a68",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "214112302686024834853467",
-    "totalAirdropAmount": "214112302686024834853467"
+    "liqAirdropAmount": "211417197729059775214265",
+    "totalAirdropAmount": "211417197729059775214265"
   },
   {
     "address": "0x8f7b1aee01da414ba992df3d7d21bdf3e49eaa6c",
@@ -9390,8 +9390,8 @@
     "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "5559478911764149626690",
-    "totalAirdropAmount": "5559478911764149626690"
+    "liqAirdropAmount": "5489499844773263240352",
+    "totalAirdropAmount": "5489499844773263240352"
   },
   {
     "address": "0x900eaadcbeea5d05b4a0150044267649607e48e8",
@@ -9474,8 +9474,8 @@
     "address": "0x911f059d7d4c19ef0a081e431c0cdf8c9a758fc4",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "352678540938594752847",
-    "totalAirdropAmount": "352678540938594752847"
+    "liqAirdropAmount": "348239255236770150564",
+    "totalAirdropAmount": "348239255236770150564"
   },
   {
     "address": "0x91202494733d928b0fabdd7d45c17e6996ecbd60",
@@ -9621,8 +9621,8 @@
     "address": "0x931369f621980fe1d8f07f6fbeb3040aadb36409",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "307797645131961352426",
-    "totalAirdropAmount": "307797645131961352426"
+    "liqAirdropAmount": "303923290651949185694",
+    "totalAirdropAmount": "303923290651949185694"
   },
   {
     "address": "0x93186fefb1824d32667e3a8dd1c3ba16dc71d033",
@@ -9691,8 +9691,8 @@
     "address": "0x947ebecd725e07bac225363f328de957aa5819b3",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4239558574596516857741",
-    "totalAirdropAmount": "4239558574596516857741"
+    "liqAirdropAmount": "4186193797391285405497",
+    "totalAirdropAmount": "4186193797391285405497"
   },
   {
     "address": "0x9486bac8e2dcdc6e0f83f0fa8ed2674952adcbea",
@@ -9768,8 +9768,8 @@
     "address": "0x95490ed8e7bc188b71cdd8a67d17d890cb579ba3",
     "veAirdropAmount": "4174483237288349859337",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "288217736908547950998",
-    "totalAirdropAmount": "4462700974196897810335"
+    "liqAirdropAmount": "284589841445826464677",
+    "totalAirdropAmount": "4459073078734176324014"
   },
   {
     "address": "0x9586f6261be6fefe440f6bea1536e71f689670f2",
@@ -9782,8 +9782,8 @@
     "address": "0x9595b576c42708fe012afc5d017d4100323b06f1",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "220637462156892208984538",
-    "totalAirdropAmount": "220637462156892208984538"
+    "liqAirdropAmount": "217860222780679366402513",
+    "totalAirdropAmount": "217860222780679366402513"
   },
   {
     "address": "0x960eda0d16f4d70df60629117ad6e5f1e13b8f44",
@@ -10006,8 +10006,8 @@
     "address": "0x994b5c8b30766eace220b76f8c1de27849f05ab3",
     "veAirdropAmount": "98724044534648366654554",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "18512809950864016545629",
-    "totalAirdropAmount": "117236854485512383200183"
+    "liqAirdropAmount": "18279782865357909916990",
+    "totalAirdropAmount": "117003827400006276571544"
   },
   {
     "address": "0x9956251d2b29c4257fda1ab18e445bafb45f8c3f",
@@ -10020,15 +10020,15 @@
     "address": "0x9958a330f640af224f03dd9218a51208f77c3cfc",
     "veAirdropAmount": "839746933370593683398",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "241575000297595644769159",
-    "totalAirdropAmount": "242414747230966238452557"
+    "liqAirdropAmount": "238534212950893678329214",
+    "totalAirdropAmount": "239373959884264272012612"
   },
   {
     "address": "0x997523ef97e0b0a5625ed2c197e61250acf4e5f1",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "56745086324692448128",
-    "totalAirdropAmount": "56745086324692448128"
+    "liqAirdropAmount": "56030816469487762247",
+    "totalAirdropAmount": "56030816469487762247"
   },
   {
     "address": "0x997b82ef537cac78e8f2a2a0c7a765a1df93dd4b",
@@ -10062,8 +10062,8 @@
     "address": "0x99c84a29040146f13a0f061d7a98c3122da3e29e",
     "veAirdropAmount": "5141386815713856999657732",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "25717604185633598955238",
-    "totalAirdropAmount": "5167104419899490598612970"
+    "liqAirdropAmount": "25393887885110665636090",
+    "totalAirdropAmount": "5166780703598967665293822"
   },
   {
     "address": "0x99fe93ce26d12753b6ba27060866f409d2f9afdd",
@@ -10139,8 +10139,8 @@
     "address": "0x9aef7c447f6bc8d010b22aff52d5b67785ed942c",
     "veAirdropAmount": "3119820349525774850465011",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1153731855820282895949",
-    "totalAirdropAmount": "3120974081381595133360960"
+    "liqAirdropAmount": "1139209437422917749484",
+    "totalAirdropAmount": "3120959558963197768214495"
   },
   {
     "address": "0x9b0e826baa5e93c7eb3057098ea968785551c38f",
@@ -10160,8 +10160,8 @@
     "address": "0x9b295791419933c5451a0c503132afb64366cc4e",
     "veAirdropAmount": "94318848842705880410785",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "600769184615100639965",
-    "totalAirdropAmount": "94919618027320981050750"
+    "liqAirdropAmount": "593207096929638107204",
+    "totalAirdropAmount": "94912055939635518517989"
   },
   {
     "address": "0x9b4c0be7e5d75a99c60786457ec6a7aa3a745d96",
@@ -10181,8 +10181,8 @@
     "address": "0x9b81306f55eaf6e4b4b451b5df53769b9d827db9",
     "veAirdropAmount": "425657366457872729204651",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "5607740683940616139171",
-    "totalAirdropAmount": "431265107141813345343822"
+    "liqAirdropAmount": "5537154129478001193303",
+    "totalAirdropAmount": "431194520587350730397954"
   },
   {
     "address": "0x9b829a7ac8199fcfb6ed980d6013f2d5261644cc",
@@ -10216,8 +10216,8 @@
     "address": "0x9c156e778bcb111b7e803f8773b6b3a627a1ac84",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2241131290012276080",
-    "totalAirdropAmount": "2241131290012276080"
+    "liqAirdropAmount": "2212921402148995341",
+    "totalAirdropAmount": "2212921402148995341"
   },
   {
     "address": "0x9c2fca196798bd4df3d512a09f0bb78a817f21bc",
@@ -10307,8 +10307,8 @@
     "address": "0x9d5df30f475cea915b1ed4c0cca59255c897b61b",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "750947246317492764563172",
-    "totalAirdropAmount": "750947246317492764563172"
+    "liqAirdropAmount": "867368244134859485570334",
+    "totalAirdropAmount": "867368244134859485570334"
   },
   {
     "address": "0x9da8b11a969b3d54068992dd77c1986266fc5d80",
@@ -10321,8 +10321,8 @@
     "address": "0x9dcce6e532dbad81c097085ad1e6b064ca3cf862",
     "veAirdropAmount": "1319363329382862489993",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1095975948845842540195",
-    "totalAirdropAmount": "2415339278228705030188"
+    "liqAirdropAmount": "1082180523849735073614",
+    "totalAirdropAmount": "2401543853232597563607"
   },
   {
     "address": "0x9de0405fe3480faa0fd2580d96e4018a2b5d620a",
@@ -10370,8 +10370,8 @@
     "address": "0x9e8784794cd73b52886cbb1a3538a4594a6c9e8d",
     "veAirdropAmount": "954160969485220025924740",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "3332302414017455049011",
-    "totalAirdropAmount": "957493271899237480973751"
+    "liqAirdropAmount": "3290357581135550484332",
+    "totalAirdropAmount": "957451327066355576409072"
   },
   {
     "address": "0x9e88c2878afd2fef06287e7a0518735503f74de6",
@@ -10384,8 +10384,8 @@
     "address": "0x9eb808da3f681cec9ab5b146a5315971fe4d5060",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "243159738524071352528244",
-    "totalAirdropAmount": "243159738524071352528244"
+    "liqAirdropAmount": "240099003534024810219114",
+    "totalAirdropAmount": "240099003534024810219114"
   },
   {
     "address": "0x9ed2c2d47703b6475f014c7aa02921a18a931a04",
@@ -10524,8 +10524,8 @@
     "address": "0xa0b67e1bfa11f1ea257bde2bb3cb89822aedfd23",
     "veAirdropAmount": "61697239038650241162216",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "881503524811293615555",
-    "totalAirdropAmount": "62578742563461534777771"
+    "liqAirdropAmount": "870407737743023692556",
+    "totalAirdropAmount": "62567646776393264854772"
   },
   {
     "address": "0xa0b8efcbd22bcbc7d80eb1eeefd3a6d2d3cc53a4",
@@ -10601,15 +10601,15 @@
     "address": "0xa1f5968465ad8d36fca10b1d9c7d7f9602ce388d",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "157016751483288344000",
-    "totalAirdropAmount": "157016751483288344000"
+    "liqAirdropAmount": "155040327803096042075",
+    "totalAirdropAmount": "155040327803096042075"
   },
   {
     "address": "0xa1fc03e69e031ae9682b6e1b2c9669a33de39b09",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "877424750429448063653",
-    "totalAirdropAmount": "877424750429448063653"
+    "liqAirdropAmount": "866380304292628370403",
+    "totalAirdropAmount": "866380304292628370403"
   },
   {
     "address": "0xa223a78e7db5503f2300c449a198e03d0e9d4454",
@@ -10636,8 +10636,8 @@
     "address": "0xa2b31a9e5d89026abe81cfa6751bbe42be2bfe3f",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "12957159935549989102",
-    "totalAirdropAmount": "12957159935549989102"
+    "liqAirdropAmount": "12794063721402509640",
+    "totalAirdropAmount": "12794063721402509640"
   },
   {
     "address": "0xa2b450918d85b3152961b3deed37cc3c012a8b58",
@@ -10692,15 +10692,15 @@
     "address": "0xa35e14f9d731ddb1994b5590574b32a838646ccf",
     "veAirdropAmount": "12512050800048154525629",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "9129483",
-    "totalAirdropAmount": "12512050800048163655112"
+    "liqAirdropAmount": "9014567",
+    "totalAirdropAmount": "12512050800048163540196"
   },
   {
     "address": "0xa399b2720814ec750e327b7c4a5dc4b4799e28a3",
     "veAirdropAmount": "301073260382961268707169",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "106248205574137893018021",
-    "totalAirdropAmount": "407321465957099161725190"
+    "liqAirdropAmount": "104910822986032217302590",
+    "totalAirdropAmount": "405984083368993486009759"
   },
   {
     "address": "0xa3cab0c6edf365365bfd50f575d4ac00db26a75d",
@@ -10734,8 +10734,8 @@
     "address": "0xa4494422a6a3eaad0de5f2a2160dfcb2f61c8699",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "74198136676035438443",
-    "totalAirdropAmount": "74198136676035438443"
+    "liqAirdropAmount": "73264179292715930982",
+    "totalAirdropAmount": "73264179292715930982"
   },
   {
     "address": "0xa45975f81380ebb5ee8f7fd210b47795a1549339",
@@ -10790,8 +10790,8 @@
     "address": "0xa53ae003f47a3ad9133b8089eb742f2fdcc5aaeb",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "164178029233509872810",
-    "totalAirdropAmount": "164178029233509872810"
+    "liqAirdropAmount": "162111464095210290559",
+    "totalAirdropAmount": "162111464095210290559"
   },
   {
     "address": "0xa57961970ea7bedc36ee143d1885560745a33369",
@@ -11168,8 +11168,8 @@
     "address": "0xab36db3d2e5c36d80aaf14ea19a7fc0d31edc8ff",
     "veAirdropAmount": "142509548384830235930601",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "382278829602995986612",
-    "totalAirdropAmount": "142891827214433231917213"
+    "liqAirdropAmount": "377466954920032789427",
+    "totalAirdropAmount": "142887015339750268720028"
   },
   {
     "address": "0xab4eb61f082d356d81d6390f6a082e142af05a20",
@@ -11196,8 +11196,8 @@
     "address": "0xabc508dda7517f195e416d77c822a4861961947a",
     "veAirdropAmount": "10261332315301130253227",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "40302031735096982418288",
-    "totalAirdropAmount": "50563364050398112671515"
+    "liqAirdropAmount": "39794736245102177187919",
+    "totalAirdropAmount": "50056068560403307441146"
   },
   {
     "address": "0xabeaa41fd6a7464b1203b24486526b0461a5cea4",
@@ -11217,8 +11217,8 @@
     "address": "0xac38a7473c31a1989a999c0a5da9a4e0d57f2574",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "5293534386903701124627",
-    "totalAirdropAmount": "5293534386903701124627"
+    "liqAirdropAmount": "5226902854819672263047",
+    "totalAirdropAmount": "5226902854819672263047"
   },
   {
     "address": "0xac3e9fd1de67205a95d6462c4115895b1563fa7e",
@@ -11294,15 +11294,15 @@
     "address": "0xad0f62d1841529ea7442de3f967a42a8410a48da",
     "veAirdropAmount": "211788601500397033200964",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1361151783881430499159",
-    "totalAirdropAmount": "213149753284278463700123"
+    "liqAirdropAmount": "1344018499740817137853",
+    "totalAirdropAmount": "213132620000137850338817"
   },
   {
     "address": "0xad3b67bca8935cb510c8d18bd45f0b94f54a968f",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "34151594546240280218",
-    "totalAirdropAmount": "34151594546240280218"
+    "liqAirdropAmount": "33721716717665412953",
+    "totalAirdropAmount": "33721716717665412953"
   },
   {
     "address": "0xad4570c52f1ff2ecc3f23713768a298e1be1f6fe",
@@ -11462,8 +11462,8 @@
     "address": "0xaf79312eb821871208ac76a80c8e282f8796964e",
     "veAirdropAmount": "1580689169450432216856",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2402917109339661228758",
-    "totalAirdropAmount": "3983606278790093445614"
+    "liqAirdropAmount": "2372670767904278726563",
+    "totalAirdropAmount": "3953359937354710943419"
   },
   {
     "address": "0xafb19f65fad9482d9b6cb3d743ecfbf1f8e1f26b",
@@ -11476,8 +11476,8 @@
     "address": "0xafd5f60aa8eb4f488eaa0ef98c1c5b0645d9a0a0",
     "veAirdropAmount": "3892808409896401430672385",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "16272462777388510780583",
-    "totalAirdropAmount": "3909080872673789941452968"
+    "liqAirdropAmount": "16067635709802021789472",
+    "totalAirdropAmount": "3908876045606203452461857"
   },
   {
     "address": "0xafdb1763404280aa89e4ecbea78d4b5de76cc782",
@@ -11490,8 +11490,8 @@
     "address": "0xafe4043c9ffd31753c5be2b76dfc45aaa70ebd6f",
     "veAirdropAmount": "248156785203004312286097",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "30321428627881038284049",
-    "totalAirdropAmount": "278478213830885350570146"
+    "liqAirdropAmount": "29939762410797295242112",
+    "totalAirdropAmount": "278096547613801607528209"
   },
   {
     "address": "0xb01eaede24ad33b820f8c1bd35ea9324230ede3e",
@@ -11567,8 +11567,8 @@
     "address": "0xb1f881f47bab744e7283851bc090baa626df931d",
     "veAirdropAmount": "199629144001956862999013",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "258640596845314461982",
-    "totalAirdropAmount": "199887784598802177460995"
+    "liqAirdropAmount": "255384998984352752328",
+    "totalAirdropAmount": "199884529000941215751341"
   },
   {
     "address": "0xb27eaabbb429d1d984a2e25d2e4ad8b2069fe953",
@@ -11581,8 +11581,8 @@
     "address": "0xb2caab51633b88ac8f7794cc9c578448ffbd0c6f",
     "veAirdropAmount": "4054111034247531053606",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "50114313192789209293",
-    "totalAirdropAmount": "4104225347440320262899"
+    "liqAirdropAmount": "49483507152190771037",
+    "totalAirdropAmount": "4103594541399721824643"
   },
   {
     "address": "0xb2cb76411b9b9c57ea1ae308c10d00e416e109cf",
@@ -11819,8 +11819,8 @@
     "address": "0xb6c3e778fbfc698f5b3fc941fa4727525141e0ca",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "137707696936094521381",
-    "totalAirdropAmount": "137707696936094521381"
+    "liqAirdropAmount": "135974322945114905019",
+    "totalAirdropAmount": "135974322945114905019"
   },
   {
     "address": "0xb6c8d8f2c3d57711913d45bd08de68574b50c79c",
@@ -11868,8 +11868,8 @@
     "address": "0xb7de2a566c8de7f8c2abed13e5cab1759b704ea3",
     "veAirdropAmount": "34571081819458288609884",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "3546447875296819076150",
-    "totalAirdropAmount": "38117529694755107686034"
+    "liqAirdropAmount": "3501807520079367495744",
+    "totalAirdropAmount": "38072889339537656105628"
   },
   {
     "address": "0xb80b281113b49c25418e0e9933e7a0c42823fa96",
@@ -11938,8 +11938,8 @@
     "address": "0xb95a4779ccedc53010ef0df8bf8ed6aeb0e8c2b2",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "30096317423194252624831",
-    "totalAirdropAmount": "30096317423194252624831"
+    "liqAirdropAmount": "29717484758017657100353",
+    "totalAirdropAmount": "29717484758017657100353"
   },
   {
     "address": "0xb965552857c06f1257ef4d698446b4d2c480ff00",
@@ -11952,8 +11952,8 @@
     "address": "0xb97f255b37eef7d47dbe1debbecd1f2ecfc37abe",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "11982929787292592230574",
-    "totalAirdropAmount": "11982929787292592230574"
+    "liqAirdropAmount": "11832096542011706030698",
+    "totalAirdropAmount": "11832096542011706030698"
   },
   {
     "address": "0xb98521d4d07d32a7a4c831699b8d75b2e9e1efff",
@@ -12057,8 +12057,8 @@
     "address": "0xbbccf6cab5b3aec26b0cbc6095b5b6ddbacfd59a",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "151374606658120203295",
-    "totalAirdropAmount": "151374606658120203295"
+    "liqAirdropAmount": "149469202589110747831",
+    "totalAirdropAmount": "149469202589110747831"
   },
   {
     "address": "0xbbd838624bac17180365e6fc63d40581e0aaece7",
@@ -12253,8 +12253,8 @@
     "address": "0xbe48c91215ea411ef648f93829cd5af6e5f48498",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "113284584988795222827652",
-    "totalAirdropAmount": "113284584988795222827652"
+    "liqAirdropAmount": "111858633080750288688356",
+    "totalAirdropAmount": "111858633080750288688356"
   },
   {
     "address": "0xbe611bb1e96c9b1c587afec66c72df2018077e0d",
@@ -12281,8 +12281,8 @@
     "address": "0xbe95c6177367869d213520add168255160ca5bf5",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "130299195606006470745",
-    "totalAirdropAmount": "130299195606006470745"
+    "liqAirdropAmount": "128659074961088345197",
+    "totalAirdropAmount": "128659074961088345197"
   },
   {
     "address": "0xbea83a62c3f2190ff4971ed8465f16f82df8696f",
@@ -12344,8 +12344,8 @@
     "address": "0xbf887a70172099b90ac9f420151fd04ff8bd1127",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "137937869858405759",
-    "totalAirdropAmount": "137937869858405759"
+    "liqAirdropAmount": "136201598601943973",
+    "totalAirdropAmount": "136201598601943973"
   },
   {
     "address": "0xbfa10e9fae3acc051430bc06d0cd220d6cea4509",
@@ -12540,8 +12540,8 @@
     "address": "0xc1e060e33d776af85280a3371455120215016065",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "1731819984846542334039",
-    "totalAirdropAmount": "1731819984846542334039"
+    "liqAirdropAmount": "1710020972986044905909",
+    "totalAirdropAmount": "1710020972986044905909"
   },
   {
     "address": "0xc1f71b4ec9ae3c49e56d1e29d88f364725933d7d",
@@ -12575,15 +12575,15 @@
     "address": "0xc258d51d09bbfb9d99365e95d16d197a78469128",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "40698297292820192333957",
-    "totalAirdropAmount": "40698297292820192333957"
+    "liqAirdropAmount": "40186013872400574320667",
+    "totalAirdropAmount": "40186013872400574320667"
   },
   {
     "address": "0xc26a6c794e1413adbccdaaf2e12d8df79dc84675",
     "veAirdropAmount": "216792544512055338583934",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "353242205323048412324",
-    "totalAirdropAmount": "217145786717378386996258"
+    "liqAirdropAmount": "348795824584378433706",
+    "totalAirdropAmount": "217141340336639717017640"
   },
   {
     "address": "0xc272f976e3343f8b75d111321795cfe7812dd37e",
@@ -12855,8 +12855,8 @@
     "address": "0xc798f444a45a6a02c3d020d24e843f53a732b75a",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "337224000233923691483",
-    "totalAirdropAmount": "337224000233923691483"
+    "liqAirdropAmount": "332979246134152126550",
+    "totalAirdropAmount": "332979246134152126550"
   },
   {
     "address": "0xc79985483d836068ebe050a312a0adc865500d59",
@@ -13016,8 +13016,8 @@
     "address": "0xc95b7a759093612f748d96d938ff16423e924ab3",
     "veAirdropAmount": "1127425326096152990562",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2408501414686059612",
-    "totalAirdropAmount": "1129833827510839050174"
+    "liqAirdropAmount": "2378184781684842360",
+    "totalAirdropAmount": "1129803510877837832922"
   },
   {
     "address": "0xc9861165346278c5305d7439548b72bbecda97a3",
@@ -13051,8 +13051,8 @@
     "address": "0xca398e17d838f26a7e39efc31d67fae20118272b",
     "veAirdropAmount": "11000667767928897964681989",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "331523995243138819409247",
-    "totalAirdropAmount": "11332191763172036784091236"
+    "liqAirdropAmount": "327350989060290631606421",
+    "totalAirdropAmount": "11328018756989188596288410"
   },
   {
     "address": "0xca61e577d7f2378deec418e538ba4167373429a6",
@@ -13240,8 +13240,8 @@
     "address": "0xccd73d064ed07964ad2144fdfd1b99e7e6b5f626",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "30450187275409541529269",
-    "totalAirdropAmount": "30450187275409541529269"
+    "liqAirdropAmount": "30066900329087670331981",
+    "totalAirdropAmount": "30066900329087670331981"
   },
   {
     "address": "0xccef494aa679f887ee08e9f1ea917e72a6a1bfb8",
@@ -13261,8 +13261,8 @@
     "address": "0xcd3010d150b9674294a0589678e020372d8e5d8c",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4100374405792237695863064",
-    "totalAirdropAmount": "4100374405792237695863064"
+    "liqAirdropAmount": "4048761587435562208923312",
+    "totalAirdropAmount": "4048761587435562208923312"
   },
   {
     "address": "0xcd376ef5d8035bf7c20a592f0b784dc4b4763267",
@@ -13345,8 +13345,8 @@
     "address": "0xce507cc4febd86362616b28b6d1c18ab3e2b63f0",
     "veAirdropAmount": "84197551283087104719701",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2433640652464248203708",
-    "totalAirdropAmount": "86631191935551352923409"
+    "liqAirdropAmount": "2403007583258757007439",
+    "totalAirdropAmount": "86600558866345861727140"
   },
   {
     "address": "0xce5404842c9d43243601e2fa145e7f8c5d9ae7ba",
@@ -13457,8 +13457,8 @@
     "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2689607409944476197",
-    "totalAirdropAmount": "2689607409944476197"
+    "liqAirdropAmount": "2655752399410770689",
+    "totalAirdropAmount": "2655752399410770689"
   },
   {
     "address": "0xcf851ef4d5e510566cd95a86aba3d33632787ce1",
@@ -13534,8 +13534,8 @@
     "address": "0xd0a7a8b98957b9cd3cfb9c0425abe44551158e9e",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4551141305750154254222",
-    "totalAirdropAmount": "4551141305750154254222"
+    "liqAirdropAmount": "4493854529889533579256",
+    "totalAirdropAmount": "4493854529889533579256"
   },
   {
     "address": "0xd0b76558a3f9c78239752105250eb5970a9f253e",
@@ -13625,8 +13625,8 @@
     "address": "0xd25b44bad8812d1c028e0db075f0466285424c37",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "214721092229304562811",
-    "totalAirdropAmount": "214721092229304562811"
+    "liqAirdropAmount": "212018324229649949295",
+    "totalAirdropAmount": "212018324229649949295"
   },
   {
     "address": "0xd2de65cd87dbbd3ac756933d2561adb9a0e5f233",
@@ -13639,8 +13639,8 @@
     "address": "0xd367cc0ed0955dbf88afc83fb1c7acc5f4839fc9",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "586841361360727312",
-    "totalAirdropAmount": "586841361360727312"
+    "liqAirdropAmount": "579454587961373967",
+    "totalAirdropAmount": "579454587961373967"
   },
   {
     "address": "0xd39e4857b10994b663e7339586d51daebed37cf4",
@@ -13695,8 +13695,8 @@
     "address": "0xd46c81245a0582891c2249daf2d68925977cf2a7",
     "veAirdropAmount": "46674709630904673569236",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4648888533448122323930",
-    "totalAirdropAmount": "51323598164352795893166"
+    "liqAirdropAmount": "4590371379722271297331",
+    "totalAirdropAmount": "51265081010626944866567"
   },
   {
     "address": "0xd4b8c74b4df5596e7016ec98a16554007b696e8c",
@@ -13807,15 +13807,15 @@
     "address": "0xd6a9ca0e8ceb737fff3ab2ae81bc5a8eb5048f69",
     "veAirdropAmount": "898620777076234668293926",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "14982511504739973941570",
-    "totalAirdropAmount": "913603288580974642235496"
+    "liqAirdropAmount": "14793921496049892654967",
+    "totalAirdropAmount": "913414698572284560948893"
   },
   {
     "address": "0xd6ae64c84265a81a26e5f5c6bd9f5643386fd301",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "31087977324000802335",
-    "totalAirdropAmount": "31087977324000802335"
+    "liqAirdropAmount": "30696662295686921964",
+    "totalAirdropAmount": "30696662295686921964"
   },
   {
     "address": "0xd6f91cf9ce4accb72d07520e1144abe02ccea0e5",
@@ -13828,8 +13828,8 @@
     "address": "0xd6ffc26607a60a0c5383533fd53f7c47c26d62d4",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "322848804876169787886",
-    "totalAirdropAmount": "322848804876169787886"
+    "liqAirdropAmount": "318784996288543015756",
+    "totalAirdropAmount": "318784996288543015756"
   },
   {
     "address": "0xd740b3c32022dc61086cd6f673fccceb5c187d86",
@@ -13926,8 +13926,8 @@
     "address": "0xd91ef5e1cb71816479c5ca3edb2bed38f7e260f9",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "221569562454664376854",
-    "totalAirdropAmount": "221569562454664376854"
+    "liqAirdropAmount": "218780590412456165741",
+    "totalAirdropAmount": "218780590412456165741"
   },
   {
     "address": "0xd92efef7d218aaf8cf851039d283d3c48388df10",
@@ -14206,8 +14206,8 @@
     "address": "0xdda8901508211dfd3a2a912feb0b913a6558c113",
     "veAirdropAmount": "1038582475175369710769141",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "3873444427055139442213",
-    "totalAirdropAmount": "1042455919602424850211354"
+    "liqAirdropAmount": "3824688054138104021245",
+    "totalAirdropAmount": "1042407163229507814790386"
   },
   {
     "address": "0xddb3299c1d94c0b741e7d56f1f9bbfe08b04ea1b",
@@ -14248,8 +14248,8 @@
     "address": "0xddf0cebc3b259420280371337b11f6fabdddf2f0",
     "veAirdropAmount": "26950597075814965347301",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "13424131569152475555",
-    "totalAirdropAmount": "26964021207384117822856"
+    "liqAirdropAmount": "13255157422963278447",
+    "totalAirdropAmount": "26963852233237928625748"
   },
   {
     "address": "0xde3c915a90e5741347137dad53070bbfe5e0fa84",
@@ -14276,8 +14276,8 @@
     "address": "0xde6ea9a2992df0dfa3ca5cf09f9f7c2592930342",
     "veAirdropAmount": "1375677372502555202356056",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "79213145727994162246633",
-    "totalAirdropAmount": "1454890518230549364602689"
+    "liqAirdropAmount": "78216062706467033976965",
+    "totalAirdropAmount": "1453893435209022236333021"
   },
   {
     "address": "0xdebd94a92d22e28b55826a8088e25d68b7755cbe",
@@ -14360,8 +14360,8 @@
     "address": "0xdffd8bbf8dcaf236c4e009ff6013bfc98407b6c0",
     "veAirdropAmount": "597404494986388499038644",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "14295292752152259427221",
-    "totalAirdropAmount": "611699787738540758465865"
+    "liqAirdropAmount": "14115353001496787485270",
+    "totalAirdropAmount": "611519847987885286523914"
   },
   {
     "address": "0xe0189bb347b3eb1fb44e0600625cf8f00c8f167e",
@@ -14619,8 +14619,8 @@
     "address": "0xe5a802314602d45ce8734df30701a45f7875759a",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "83318430374679974482",
-    "totalAirdropAmount": "83318430374679974482"
+    "liqAirdropAmount": "82269672727910689833",
+    "totalAirdropAmount": "82269672727910689833"
   },
   {
     "address": "0xe5cf3c8bae99a696c1d2e35191492ed445676e08",
@@ -14633,8 +14633,8 @@
     "address": "0xe5e0898121c0f978f2fde415c1579cedd04feb95",
     "veAirdropAmount": "864812431332417473243433",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "108583884411238685929777",
-    "totalAirdropAmount": "973396315743656159173210"
+    "liqAirdropAmount": "107217101832881260879706",
+    "totalAirdropAmount": "972029533165298734123139"
   },
   {
     "address": "0xe5e09a912d7e27f5404a4fe6b1b8a6103e3ac4c2",
@@ -14829,8 +14829,8 @@
     "address": "0xe85102e10d16a32f1c032383f03a64ece3e0eab4",
     "veAirdropAmount": "142606976776955300727060",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2098135585710326337768",
-    "totalAirdropAmount": "144705112362665627064828"
+    "liqAirdropAmount": "2071725633799600505832",
+    "totalAirdropAmount": "144678702410754901232892"
   },
   {
     "address": "0xe8c03f56e1e25313e238202336c487f7d4cc8aaf",
@@ -14892,8 +14892,8 @@
     "address": "0xe98c4afa5edb05494daa7dfba83af13e34555f9f",
     "veAirdropAmount": "542892511380983422885915",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "4402464487443279852291",
-    "totalAirdropAmount": "547294975868426702738206"
+    "liqAirdropAmount": "4347049157664822136073",
+    "totalAirdropAmount": "547239560538648245021988"
   },
   {
     "address": "0xe9973af1b69e407745926fa985c0090e0e78dcf1",
@@ -14934,8 +14934,8 @@
     "address": "0xea173648f959790baea225ce3e75df8a53a6bde5",
     "veAirdropAmount": "8026290849864503102165",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "886078709611687642301",
-    "totalAirdropAmount": "8912369559476190744466"
+    "liqAirdropAmount": "874925333123847304491",
+    "totalAirdropAmount": "8901216182988350406656"
   },
   {
     "address": "0xea18cfae4cfdb6b3ed6589541a360497e0fda329",
@@ -14955,8 +14955,8 @@
     "address": "0xeaf1eaf9a95c7f1c37bceeaf49423dccdebfc6e1",
     "veAirdropAmount": "85781546734812545470614",
     "testnetAirdropAmount": "1600000000000000000000",
-    "liqAirdropAmount": "1086325596656853841218",
-    "totalAirdropAmount": "88467872331469399311832"
+    "liqAirdropAmount": "1072651643952131430353",
+    "totalAirdropAmount": "88454198378764676900967"
   },
   {
     "address": "0xeb18ac54f79b00292dce13acc8ece74b21fcac85",
@@ -15032,8 +15032,8 @@
     "address": "0xec16277d2737ce8763a9d96cf68cdb6426f61b82",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "91910768200802258590",
-    "totalAirdropAmount": "91910768200802258590"
+    "liqAirdropAmount": "90753855852147120875",
+    "totalAirdropAmount": "90753855852147120875"
   },
   {
     "address": "0xec5f4cfe743a77aab8e81d47a00ac2518dace942",
@@ -15221,8 +15221,8 @@
     "address": "0xeeda7f71df5a589a9b8c5794aa3d28d66a4ee672",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "76918382747627213751",
-    "totalAirdropAmount": "76918382747627213751"
+    "liqAirdropAmount": "75950184694436146205",
+    "totalAirdropAmount": "75950184694436146205"
   },
   {
     "address": "0xeeee274659816f84a9f9f592329d829ae84ce6e4",
@@ -15249,8 +15249,8 @@
     "address": "0xef047abd1455f3cfe82628844e44ccaa274ba396",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "203954230829451854388",
-    "totalAirdropAmount": "203954230829451854388"
+    "liqAirdropAmount": "201386989005386742839",
+    "totalAirdropAmount": "201386989005386742839"
   },
   {
     "address": "0xef373a1c19faa74f62aa6391238bc9abc22fb79f",
@@ -15515,8 +15515,8 @@
     "address": "0xf2acafc56a3eb0fd367eb5d199a5d81f8ea459af",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "49518006046073563013",
-    "totalAirdropAmount": "49518006046073563013"
+    "liqAirdropAmount": "48894705927959848591",
+    "totalAirdropAmount": "48894705927959848591"
   },
   {
     "address": "0xf2cf3800da57a1f3478d1844b58f24c35583a0c4",
@@ -15683,8 +15683,8 @@
     "address": "0xf578475b51f9f77b2421c321d4c0d530942a5448",
     "veAirdropAmount": "142653827600795838347034",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "591804413295787447975",
-    "totalAirdropAmount": "143245632014091625795009"
+    "liqAirdropAmount": "584355168260269084797",
+    "totalAirdropAmount": "143238182769056107431831"
   },
   {
     "address": "0xf5ca247074d3db6bfc5ecd7bd8efeb4f559802ad",
@@ -15760,8 +15760,8 @@
     "address": "0xf6aa21404f079e8b8e142e91fd408a86713dc087",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "73212255663387070125",
-    "totalAirdropAmount": "73212255663387070125"
+    "liqAirdropAmount": "72290707902358452989",
+    "totalAirdropAmount": "72290707902358452989"
   },
   {
     "address": "0xf6d72651c7bb6a11103c7e9bd03a1eba4a93f367",
@@ -15788,8 +15788,8 @@
     "address": "0xf6ee1a630bc3ecd8c3fb11520d5952031d7b4c24",
     "veAirdropAmount": "773359452118518182613327",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "2889026101054059968862",
-    "totalAirdropAmount": "776248478219572242582189"
+    "liqAirdropAmount": "2852660939089639857673",
+    "totalAirdropAmount": "776212113057607822471000"
   },
   {
     "address": "0xf6fd23c144fcf00c0dbbdd578621491836a16ebe",
@@ -15830,8 +15830,8 @@
     "address": "0xf78ef3831f42f36402a7c17436b8a32c3ee7ded1",
     "veAirdropAmount": "35912275862717273492922",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "74641544380136652083",
-    "totalAirdropAmount": "35986917407097410145005"
+    "liqAirdropAmount": "73702005672034364276",
+    "totalAirdropAmount": "35985977868389307857198"
   },
   {
     "address": "0xf7a7905dcd7755ee593461f0e59ee6e996693f5c",
@@ -15886,8 +15886,8 @@
     "address": "0xf80d45f08ed6be0852bd08f1f37ff230a4e1ca25",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "25393254909356898625",
-    "totalAirdropAmount": "25393254909356898625"
+    "liqAirdropAmount": "25073621304369509706",
+    "totalAirdropAmount": "25073621304369509706"
   },
   {
     "address": "0xf81d9bfca1d4ee273525254874e9b8e92c56f67d",
@@ -16019,8 +16019,8 @@
     "address": "0xfa49c621e5aab36ade24a2a1d779f62c781f004b",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "818971315608517306489",
-    "totalAirdropAmount": "818971315608517306489"
+    "liqAirdropAmount": "808662642895089070987",
+    "totalAirdropAmount": "808662642895089070987"
   },
   {
     "address": "0xfa7c225827d4b5f0f76bb81401a8658365c20bbe",
@@ -16096,8 +16096,8 @@
     "address": "0xfb3bd022d5dacf95ee28a6b07825d4ff9c5b3814",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "10638851402636344466",
-    "totalAirdropAmount": "10638851402636344466"
+    "liqAirdropAmount": "10504936532766835693",
+    "totalAirdropAmount": "10504936532766835693"
   },
   {
     "address": "0xfb4cb868727d9622258bf2b26a8cfc95f6742669",
@@ -16292,8 +16292,8 @@
     "address": "0xfdc004b6b92b45b224d37dc45dba5ca82c1e08f2",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "235846287002274588023",
-    "totalAirdropAmount": "235846287002274588023"
+    "liqAirdropAmount": "232877608933767120963",
+    "totalAirdropAmount": "232877608933767120963"
   },
   {
     "address": "0xfdcc646bbf2cce1c6e9b8441ab5706f7fbcd02e1",
@@ -16334,8 +16334,8 @@
     "address": "0xfe9a318e1d7eee138359c137195ea2bee9fa5200",
     "veAirdropAmount": "0",
     "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "271906036181790569978700",
-    "totalAirdropAmount": "271906036181790569978700"
+    "liqAirdropAmount": "268483461688176029691693",
+    "totalAirdropAmount": "268483461688176029691693"
   },
   {
     "address": "0xfe9ac7f37cdeb187ad4a9d99bd79d76598fda65c",
