@@ -3368,10 +3368,10 @@
   },
   {
     "address": "0x34c9c2e48f43dace5192002c0d1c3c40edf463bd",
-    "veAirdropAmount": "4536254688701664950537210",
+    "veAirdropAmount": "4318375645296957362113876",
     "testnetAirdropAmount": "0",
     "liqAirdropAmount": "19020247625263482661772",
-    "totalAirdropAmount": "4555274936326928433198982"
+    "totalAirdropAmount": "4337395892922220844775648"
   },
   {
     "address": "0x35011a1a4a72b2ef4f6d04acf11a346c8db13803",
@@ -10155,13 +10155,6 @@
     "testnetAirdropAmount": "2000000000000000000000",
     "liqAirdropAmount": "0",
     "totalAirdropAmount": "2000000000000000000000"
-  },
-  {
-    "address": "0x9b295791419933c5451a0c503132afb64366cc4e",
-    "veAirdropAmount": "94318848842705880410785",
-    "testnetAirdropAmount": "0",
-    "liqAirdropAmount": "593207096929638107204",
-    "totalAirdropAmount": "94912055939635518517989"
   },
   {
     "address": "0x9b4c0be7e5d75a99c60786457ec6a7aa3a745d96",

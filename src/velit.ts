@@ -331,6 +331,9 @@ const veLitQuery: string = gql`
       orderDirection: desc,
       where: {
         lockEnd_gt: 1730816279
+      },
+      block: {
+        number: 21121993
       }
     ) {
       amount

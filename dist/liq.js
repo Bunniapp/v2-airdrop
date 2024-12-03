@@ -13,7 +13,6 @@ export async function calculateLiqAirdrop() {
         getLiqHolders(),
         getLockedLiqHolders(),
         getLiqLiquidityProviders(),
-        // blacklistLiqHolders()
     ]);
     await blacklistLiqHolders();
     calculateAirdropAmounts();
